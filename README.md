@@ -3,4 +3,4 @@
 Guess the year of the picture!
 
 TODO:
-Benchmarking against optical recognition agents.
+Benchmarking against optical recognition agents
