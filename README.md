@@ -6,5 +6,7 @@ Guess the year of the picture!
 Benchmarking against optical recognition agents
 
 ### Instructions:
-'npm start'
-'npm run build'
+```
+npm start
+npm run build
+```
